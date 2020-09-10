@@ -23,6 +23,6 @@ See also:
 
 #### Cost-effectiveness analysis: scenarios
 
-![S1](figs/S1armgrrv3.png) | ![S2](figs/S2armgrrv3.png)
+![S1](figs/S1armgrrv3.jpg) | ![S2](figs/S2armgrrv3.jpg)
 :-------------------------:|:-------------------------:
-![S3](figs/S3armgrrv3.png) | ![S4](figs/S4armgrrv3.png)
+![S3](figs/S3armgrrv3.jpg) | ![S4](figs/S4armgrrv3.jpg)
