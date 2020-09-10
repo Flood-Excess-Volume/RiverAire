@@ -18,8 +18,8 @@ See also:
 ![3panel](figs/armley_3panel_errGRR.png)
 
 #### Concept: re-express FEV as a square 'flood-excess lake'
-![squarelake](figs/floodlake_schematic_airev2_crop.png)
-![LeedsAire](figs/S0HWairee_2020.png)
+![FEL](figs/FEL.png)
+
 
 #### Cost-effectiveness analysis: scenarios
 
