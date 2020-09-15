@@ -1,8 +1,6 @@
 # RiverAire
 
-<p align="center">
 ![LeedsAire](figs/archesdown.png)
-</p>
 
 ## FEV analysis for the Boxing day 2015 flood of the River Aire, Leeds
 
@@ -22,12 +20,14 @@ See also:
 From the ```/code``` dir, run: 
  * ```quadrantplot_armley.m``` (without Giving-Room-to-the-River)
  * ```quadrantplot_armleyplus.m``` (with Giving-Room-to-the-River)
+ 
 Running, e.g., ```quadrantplot_armleyplus.m``` calls four plotting routines at the end of the sript:
  * ```plot3panelgrr;```
  * ```plotFEVhT;```
  * ```plot_h_year;```
  * ```plot_ratingcurve;```
-in total, six figures are produced, including figure 4 from Bokhove et al, 2020:
+ 
+in total, six figures are produced, including figure 4 below from Bokhove et al, 2020.
 
 ![3panel](figs/armley_3panel_errGRR.png)
 
